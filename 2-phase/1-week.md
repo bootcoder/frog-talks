@@ -11,7 +11,7 @@
 
 ## Wednesday: The Internet!
 
-- NAME - How does Sinatra handle DELETE and PUT routes?
+- Joseph - How does Sinatra handle DELETE and PUT routes?
 - NAME - What are the different HTTP methods?
 - NAME - What is an IP address?
 - NAME - What is a port?
