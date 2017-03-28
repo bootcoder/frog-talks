@@ -5,12 +5,12 @@
 ### Routes overview
 
 | HTTP VERB | Route         | Action  |  Used for |
-| ----------|:-------------:| :-----:| -----: |
+| ----------|:-------------:| :-----: | :--------:|
 | GET       | '/posts' | index | display all posts |
 | GET       | '/posts/new' | new | form for creating a new post |
 | POST      | '/posts | create | create a new post |
 | GET       | '/posts/:id'     |   show | display a specific post |
-| GET       | '/posts/:id/edit'      |   edit | edit a specific post | 
+| GET       | '/posts/:id/edit'|   edit | edit a specific post | 
 | PUT       | '/posts/:id' | update | update a specific post |
 | DELETE    | '/posts/:id| | delete | delete a specific post |
 
