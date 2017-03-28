@@ -15,7 +15,7 @@
 | DELETE    | '/posts/:id' | delete | delete a specific post |
 
 
-To use the PUT and DELETE methods in Sinatra you have 
+To use the PUT and DELETE methods in Sinatra you have to "trick" the form to go to the right place
 
 To get to the edit form to submit via POST request you form must include a hidden input field.
 
