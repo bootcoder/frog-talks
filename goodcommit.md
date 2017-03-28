@@ -17,18 +17,22 @@
 
 *Pair danielwelsh,dmetas,rasnom*
 >Add client and server for cheering.
+<br>
 >Connect to Nat and May
 
 *Pair mayjawdat,natalieyip*
 >Create client and server files, update server response method
+<br>
 >Change IP address to another computer
 
 *Pair bacevedo01,stacy89*
 > Release 1 complete		
+<br>
 > Finished release 2
 
 *Pair Denise and Brianna*
 > Add cheering server and cheering client
+<br>
 > Connect to another server across the room
 
 ## Bad commit messages:
