@@ -21,7 +21,7 @@
 
 ## Thursday: ActiveRecord!
 
-- NAME - Complex associational mapping in Active Record (:source, :foreign_key)
+- Brianna - Complex associational mapping in Active Record (:source, :foreign_key)
 - NAME - Scopes in Active Record
 - NAME - Where is my database file when using postgresql?
 - NAME - Def change vs up/down in Active Record migrations
