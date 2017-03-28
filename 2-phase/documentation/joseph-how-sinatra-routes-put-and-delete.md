@@ -12,7 +12,7 @@
 | GET       | '/posts/:id'     |   show | display a specific post |
 | GET       | '/posts/:id/edit'|   edit | edit a specific post | 
 | PUT       | '/posts/:id' | update | update a specific post |
-| DELETE    | '/posts/:id| | delete | delete a specific post |
+| DELETE    | '/posts/:id' | delete | delete a specific post |
 
 
 To use the PUT and DELETE methods in Sinatra you have 
