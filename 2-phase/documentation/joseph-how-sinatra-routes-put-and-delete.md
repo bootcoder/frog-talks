@@ -15,9 +15,9 @@
 | DELETE    | '/posts/:id' | delete | delete a specific post |
 
 
-To use the PUT and DELETE methods in Sinatra you have to "trick" the form to go to the right place
+To use the PUT and DELETE methods in Sinatra you have to "trick" the form to go to the right place.
 
-To get to the edit form to submit via POST request you form must include a hidden input field.
+To get to the edit form to submit via POST request your form must include a hidden input field.
 
 
 ### Put form and route
@@ -42,7 +42,7 @@ end
 ```
 
 The first controller action above loads the edit form in the browser by making a GET request to posts/:id/edit.
-The second controller action handles the edit form submission. This action responds to a PUT request to the route /posts/:id. First, we pull the post by the ID, then we update the title and content attributes and save. The action ends with a redirect to the blog post show page.
+The second controller action handles the edit form submission. This action responds to a PUT request to the route /posts/:id. First, we pull the post by the ID in the parameters, then we update the title and content attributes and save. The action ends with a redirect to the post show page.
 
 ### Delete form and route
 ```
@@ -61,4 +61,4 @@ delete '/posts/:id' do
 end
 ```
 
-On the post show page, we have a form to delete it. The form is submitted via a DELETE request to the route /posts/:id/delete. This action finds the blog post in the database based on the ID in the url parameters, and deletes it. It then redirects to the index page /posts.
+On the post show page, we have a form to delete it. The form is submitted via a DELETE request to the route /posts/:id. This action finds the post in the database based on the ID in the parameters, and deletes it. It then redirects to the index page /posts.
