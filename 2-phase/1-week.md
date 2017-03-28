@@ -15,7 +15,7 @@
 - NAME - What are the different HTTP methods?
 - NAME - What is an IP address?
 - NAME - What is a port?
-- NAME - RACK
+- Ransom - RACK
 - NAME - Why use REST
 - NAME - What do before and after filters do in Sinatra?
 
