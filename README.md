@@ -45,3 +45,8 @@ Submitting your lightning talk comes in two parts. Both must be completed to rec
 - Add a link to your documentation to the documentation section of this document.
 - Follow the process above for branching and merging this time with a branch name of "your-name-your-topic"
 - Push up your file and open a PR
+
+
+## Documentation
+
+- [Good Commits](2-phase/documentation/good_commit.md)
