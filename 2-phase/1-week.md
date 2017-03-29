@@ -30,7 +30,7 @@
 ## Friday: CSS and HTML!
 
 - NAME - CSS inheritance
-- NAME - Data attributes in HTML
+- Dillon - Data attributes in HTML
 - Namuun - CSS box model
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model
