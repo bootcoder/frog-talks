@@ -41,8 +41,7 @@ put '/posts/:id' do
 end
 ```
 
-The first controller action above loads the edit form in the browser by making a GET request to posts/:id/edit.
-The second controller action handles the edit form submission. This action responds to a PUT request to the route /posts/:id. First, we pull the post by the ID in the parameters, then we update the title and content attributes and save. The action ends with a redirect to the post show page.
+The controller action handles the edit form submission. This action responds to a PUT request to the route /posts/:id. First, we pull the post by the ID in the parameters, then we update the title and content attributes and save. The action ends with a redirect to the post show page.
 
 ### Delete form and route
 ```
