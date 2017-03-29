@@ -31,7 +31,7 @@
 
 - NAME - CSS inheritance
 - NAME - Data attributes in HTML
-- NAME - CSS box model
+- Namuun - CSS box model
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model
 - Dylan - CSS :before and :after
