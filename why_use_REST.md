@@ -23,9 +23,9 @@ The guiding components of REST are to provide the following:
 - Use of executable code transferred to the client allows for Ajax and JavaScript to be deployed.
 - Resources are identified in the requests and each request has the information sent to the server to process the request, eliminating the need for client side hard coding for the structure and dynamics of the entire service.
 
-### This is great but what the #%@*! does it mean?-
+### This is great but what the #%@*! does it mean?
 
-What it means is that the use of RESTful conventions can keep your code readable and standardized so other developers can view, understand and modify your code. When each object is treated as a resource and each request refers to only one resource the management of routes becomes clear to understand and digest. It also means that it is scalable because the predictability of the standardized conventions.
+What it means is that the use of RESTful conventions can keep your code readable and standardized so other developers can view, understand and modify your code. When each object is treated as a resource and each request refers to only one resource. The management of routes becomes clear to understand and digest. It also means that it is scalable because the predictability of the standardized conventions.
 
 ###Example:  
 We want to display a list of all flapjacks:  
