@@ -16,7 +16,7 @@
 - NAME - What is an IP address?
 - NAME - What is a port?
 - Ransom - RACK
-- NAME - Why use REST
+- Ben - Why use REST
 - NAME - What do before and after filters do in Sinatra?
 
 ## Thursday: ActiveRecord!
