@@ -34,4 +34,4 @@
 - NAME - CSS box model
 - NAME - Fragment identifiers
 - NAME - CSS specificity & point model
-- NAME - CSS :before and :after
+- Dylan - CSS :before and :after
