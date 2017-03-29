@@ -29,6 +29,12 @@ To get to the edit form to submit via POST request your form must include a hidd
   <input type="submit" value="submit">
 </form>
 
+get '/posts/:id/edit' do
+  #get params from url
+  @post = Post.find(params[:id]) #define intstance variable for view
+  erb :'posts/edit' #show edit post view
+end
+
 put '/posts/:id' do
   #get params from url
   @post = Post.find(params[:id]) #define variable to edit
@@ -41,16 +47,13 @@ put '/posts/:id' do
 end
 ```
 
-The first controller action above loads the edit form in the browser by making a GET request to posts/:id/edit.
-The second controller action handles the edit form submission. This action responds to a PUT request to the route /posts/:id. First, we pull the post by the ID in the parameters, then we update the title and content attributes and save. The action ends with a redirect to the post show page.
+The first controller action above loads the edit form in the browser by making a GET request to posts/:id/edit. The second controller action handles the edit form submission. This action responds to a PUT request to the route /posts/:id. First, we pull the post by the ID in the parameters, then we update the title and content attributes and save. The action ends with a redirect to the post show page.
 
 ### Delete form and route
 ```
 <form action="/posts/:id" method="post">
   <input id="hidden" type="hidden" name="_method" value="delete">
-  <input type="text" name="title">
-  <input type="text" name="content">
-  <input type="submit" value="submit">
+  <input type="submit" value="Delete">
 </form>
 
 delete '/posts/:id' do
