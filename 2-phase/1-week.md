@@ -29,7 +29,7 @@
 
 ## Friday: CSS and HTML!
 
-- NAME - CSS inheritance
+- Natalie - CSS inheritance
 - Dillon - Data attributes in HTML
 - Namuun - CSS box model
 - NAME - Fragment identifiers
