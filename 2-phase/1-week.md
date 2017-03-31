@@ -4,7 +4,7 @@
 
 - NAME - git add -p (and why its awesome!)
 - NAME - What makes a good pull request?
-- NAME - What makes a good commit?
+- Denise - What makes a good commit?
 - NAME - git clone vs fork vs branch… why do any of them?
 - NAME - git HEAD
 - NAME - What is a REFSPEC?
