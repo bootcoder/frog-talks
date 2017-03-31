@@ -13,7 +13,7 @@
 
 - Joseph - How does Sinatra handle DELETE and PUT routes?
 - NAME - What are the different HTTP methods?
-- NAME - What is an IP address?
+- Stacy - What is an IP address? (Doing Week 2)
 - NAME - What is a port?
 - Ransom - RACK
 - Ben - Why use REST
