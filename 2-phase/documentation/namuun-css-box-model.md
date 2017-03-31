@@ -5,7 +5,7 @@
 Every element on a page is a rectangular box. 
 The **box model** is a term used to define how a box and its attributes relate to each other. Useful in the layout and design of your web application.
 
-![Box-model](/box-model.png)
+![Box-model](https://github.com/bootcoder/frog-talks/blob/namuun-css-box-model/2-phase/documentation/box-model.png)
 
 Main parts:
 - **Margin** transparent, clears the area outside the border
@@ -34,7 +34,9 @@ height + padding-top + padding-bottom + border-top + border-bottom
 ### References
 
 -[W3 CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+
 -[Wikipedia](https://en.wikipedia.org/wiki/CSS_box_model)
+
 -[CSS Tricks](https://css-tricks.com/the-css-box-model/)
 
 ### Very useful links
