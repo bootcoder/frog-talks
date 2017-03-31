@@ -32,6 +32,6 @@
 - Natalie - CSS inheritance
 - Dillon - Data attributes in HTML
 - Namuun - CSS box model
-- NAME - Fragment identifiers
+- May - Fragment identifiers
 - Daniel - CSS specificity & point model
 - Dylan - CSS :before and :after
