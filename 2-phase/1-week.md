@@ -29,9 +29,9 @@
 
 ## Friday: CSS and HTML!
 
-- NAME - CSS inheritance
+- Natalie - CSS inheritance
 - Dillon - Data attributes in HTML
 - Namuun - CSS box model
 - May - Fragment identifiers
-- NAME - CSS specificity & point model
+- Daniel - CSS specificity & point model
 - Dylan - CSS :before and :after

@@ -50,3 +50,4 @@ Submitting your lightning talk comes in two parts. Both must be completed to rec
 ## Documentation
 
 - [Good Commits](2-phase/documentation/good_commit.md)
+- [CSS Box Model](2-phase/documentation/namuun-css-box-model.md)
