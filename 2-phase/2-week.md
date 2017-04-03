@@ -3,7 +3,7 @@
 ## Monday: JS basics!
 
 - NAME - function foo() {} vs var foo = function() {}
-- NAME - == vs === and how return works in JS
+- Joseph - == vs === and how return works in JS
 - NAME - debugger
 - NAME - What is 'this' in JavaScript?
 - NAME - What does 'functions are first class citizens' in JS mean?
