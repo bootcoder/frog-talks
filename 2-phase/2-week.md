@@ -22,7 +22,7 @@
 - NAME - .call() and .apply()
 - NAME - .bind()
 - NAME - event delegation
-- NAME - What is a prototype in JavaScript
+- May - What is a prototype in JavaScript
 - NAME - Traversing the DOM in vanilla JavaScript without querySelector or querySelectorAll
 
 ## Thursday: JavaScript Libraries and Frameworks
