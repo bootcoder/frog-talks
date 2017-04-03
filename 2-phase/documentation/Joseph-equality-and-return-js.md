@@ -14,6 +14,7 @@ console.log(3 === "3"); // false
 ```
 Example 1
 
+
 Using two equal signs returns true because the string “3” is converted to the number 3 before the comparison is made. Three equal signs sees that the types are different and returns false. 
 
 
@@ -25,6 +26,7 @@ console.log("This is a string." === new String("This is a string.")); // false
 ```
 Example 2
 
+
 Why did the strict equality in example 2 returned false?
 ```
 console.log(typeof "This is a string."); // string
@@ -32,6 +34,7 @@ console.log(typeof "This is a string."); // string
 console.log(typeof new String("This is a string.")); //object
 ```
 Example 3
+
 
 ### When comparing reference types both abstract and strict comparisons will return false unless both operands refer to the exact same object.
 
@@ -48,8 +51,10 @@ console.log(a === c); // true
 ```
 Example 4
 
+
 ## What should I use?
 Using the strict equality operator to increase the clarity of your code and prevent any false positives caused by abstract equality comparison. 
+
 
 ### Part 2
 ### return in js
@@ -81,3 +86,4 @@ counter();
 // 4B
 // 5A
 ```
+Example 5
