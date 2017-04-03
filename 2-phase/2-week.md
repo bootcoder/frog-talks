@@ -12,7 +12,7 @@
 ## Tuesday: Goddamn it, JavaScript.
 
 - NAME - Variable scope and shadowing
-- NAME - When do I need a semicolon?
+- Ben - When do I need a semicolon?
 - NAME - Why do you pass false to .addEventListener() as its third argument?
 - NAME - ECMA Script
 
