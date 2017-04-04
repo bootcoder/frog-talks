@@ -20,7 +20,7 @@
 
 - NAME - hoisting
 - NAME - .call() and .apply()
-- NAME - .bind()
+- Ransom - .bind()
 - NAME - event delegation
 - May - What is a prototype in JavaScript
 - NAME - Traversing the DOM in vanilla JavaScript without querySelector or querySelectorAll
