@@ -30,7 +30,7 @@
 These subjects can run 5-10 minutes if needed.
 
 - NAME - mustache.js
-- NAME - underscore.js
+- Brianna - underscore.js
 - NAME - coffeeScript
 - NAME - react.js
 - NAME - node
