@@ -32,14 +32,18 @@ These subjects can run 5-10 minutes if needed.
 - NAME - mustache.js
 - NAME - underscore.js
 - NAME - coffeeScript
+<<<<<<< HEAD
 - Daniel - react.js
+=======
+- Dylan - react.js
+>>>>>>> 311d36113eb7d280229440bc48b190ef2c8119fb
 - NAME - node
 - NAME - webpack
 
 ## Friday: Advanced HTML and CSS
 
 - NAME - HTML5 form validation
-- NAME - HTML local storage
+- Dillon - HTML local storage
 - NAME - Canvas
 - NAME - CSS3 pseudo classes ( :nth-child(n), :not(s), :empty )
 - NAME - How do you write semantic HTML?
