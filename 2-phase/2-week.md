@@ -33,7 +33,7 @@ These subjects can run 5-10 minutes if needed.
 - Brianna - underscore.js
 - NAME - coffeeScript
 - Dylan - react.js
-- NAME - node
+- Daniel - node
 - NAME - webpack
 
 ## Friday: Advanced HTML and CSS
