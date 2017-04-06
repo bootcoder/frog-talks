@@ -38,7 +38,7 @@ These subjects can run 5-10 minutes if needed.
 
 ## Friday: Advanced HTML and CSS
 
-- NAME - HTML5 form validation
+- Denise and Stacy - HTML5 form validation
 - Dillon - HTML local storage
 - NAME - Canvas
 - NAME - CSS3 pseudo classes ( :nth-child(n), :not(s), :empty )
