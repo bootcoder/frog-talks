@@ -24,9 +24,6 @@ var ctx = canvas.getContext('2d');
 
 Now that you have your context variable, you can start playing around with it! 
 
-Here's how you would obtain a red rectangle! 
-
-ctx.fill
 
 
 ## LINKS 
